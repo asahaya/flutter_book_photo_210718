@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "832115636063",
+    "project_id": "fir-zenn210718",
+    "storage_bucket": "fir-zenn210718.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832115636063:android:02dce58374bd60c87c68ea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_book_photo_210718"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832115636063-51fqqalb0r2b7b2ldilb4s725v8djd6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQf6Wl6uP4sO_xJoAKvM4aDCBijGP-Kxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832115636063-51fqqalb0r2b7b2ldilb4s725v8djd6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
